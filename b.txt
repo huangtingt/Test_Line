@@ -1,3 +1,5 @@
 this is the newbranch text
 working stage file compare 
-add one line to modify and commit `
+add one line to modify and commit 
+test conflict and merge
+to see which is the original context
